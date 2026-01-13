@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hi, I'm Mohamed Samir
 
-<!--
-**mohamedsamir01024/mohamedsamir01024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Penetration Tester | Offensive Security
 
-Here are some ideas to get you started:
+I'm a penetration tester with hands-on experience in web and network security.
+I focus on vulnerability assessment, exploitation, and security testing.
+Currently building labs, tools, and scripts while sharpening my red team skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- Web & Network Penetration Testing
+- Linux & Networking Fundamentals
+- Python for Security Automation
+- Firewalls & Security Operations
+
+### 📌 Interests
+- Red Teaming
+- Ethical Hacking
+- Cybersecurity Research
