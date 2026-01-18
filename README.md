@@ -34,7 +34,7 @@
   </a>
 
   <a href="https://www.youtube.com/@mohamedsamir8" target="_blank">
-    <img src="https://img.icons8.com/?size=96&id=19318&format=png"
+    <img src="https://icons8.com/icon/36908/youtube"
       alt="YouTube" width="40" height="28"/>
   </a>
 </p>
