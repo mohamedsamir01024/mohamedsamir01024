@@ -24,7 +24,7 @@
   </a>
 
   <a href="https://www.instagram.com/its_mohamedsamir12/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg"
+    <img src="https://img.icons8.com/?size=96&id=32323&format=png"
       alt="Instagram" width="40" height="40"/>
   </a>
 
