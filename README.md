@@ -19,7 +19,7 @@
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamedsam" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+    <img src="https://img.icons8.com/?size=96&id=xuvGCOXi8Wyg&format=png"
       alt="LinkedIn" width="40" height="40"/>
   </a>
 
@@ -29,12 +29,12 @@
   </a>
 
   <a href="https://www.facebook.com/mohamed.samir.565129" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
+    <img src="https://img.icons8.com/?size=96&id=118497&format=png"
       alt="Facebook" width="40" height="40"/>
   </a>
 
   <a href="https://www.youtube.com/@mohamedsamir8" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg"
+    <img src="https://img.icons8.com/?size=96&id=19318&format=png"
       alt="YouTube" width="40" height="28"/>
   </a>
 </p>
