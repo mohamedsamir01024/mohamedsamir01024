@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at  
   👉 https://github.com/mohamedsamir01024
 - 💬 Ask me about **Web Security, Network Pentesting, Linux**
-- 📫 How to reach me **(add your email if you want)**
+- 📫 How to reach me **(mohamedsamir01024@gmail.com)**
 
 ---
 
